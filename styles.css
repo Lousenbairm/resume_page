@@ -4,6 +4,8 @@ body {
 
 #header {
   height: 5vh;
+  font-size: 30px;
+  text-align: center;
 }
 
 .whole-page {
